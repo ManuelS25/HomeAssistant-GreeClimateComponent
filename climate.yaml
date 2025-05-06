@@ -2,7 +2,7 @@
   # required settings:
   name: First AC
   host: <ip of your first AC>
-  mac: '<mac address of your first AC>'
+  mac: '<c0393757219c>'
   # optional settings:
   port: 7000
   timeout: 10
